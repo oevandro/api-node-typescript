@@ -1,3 +1,6 @@
+
+//inicializa o servidor para todos os testes 
+
 import { SetupServer } from '@src/server';
 import supertest from 'supertest';
 
